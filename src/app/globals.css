@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  @apply text-white;
+  @apply bg-customBlue;
+}
+
+img {
+  width: auto;
+  height: auto;
+}
